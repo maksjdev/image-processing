@@ -1,0 +1,24 @@
+D:\Projects\C# (.NET)\LabWork2 (PRec)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Projects\C# (.NET)\LabWork2 (PRec)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Projects\C# (.NET)\LabWork2 (PRec)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Projects\C# (.NET)\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\LabWork2 (PRec).csprojAssemblyReference.cache
+D:\Projects\C# (.NET)\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Projects\C# (.NET)\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Projects\C# (.NET)\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\Projects\C# (.NET)\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projects\C# (.NET)\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\LabWork2 (PRec).csproj.GenerateResource.cache
+D:\Projects\C# (.NET)\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\LabWork2 (PRec).csproj.CoreCompileInputs.cache
+D:\Projects\C# (.NET)\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Projects\C# (.NET)\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\LabWork2 (PRec)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\LabWork2 (PRec)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\LabWork2 (PRec)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\LabWork2 (PRec).csprojAssemblyReference.cache
+C:\Users\User\Desktop\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\User\Desktop\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\User\Desktop\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\LabWork2 (PRec).csproj.GenerateResource.cache
+C:\Users\User\Desktop\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\LabWork2 (PRec).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\LabWork2 (PRec)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
